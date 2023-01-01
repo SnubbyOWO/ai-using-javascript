@@ -14,3 +14,6 @@ Nothing Much about it really.
 + Selection of questions
 + Reset the convo
 ---
+
+# Adding Soon
++ For the user to be able to write out the message. The use of a json file will contain words to see what it should reply with
